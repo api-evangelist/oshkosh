@@ -5,7 +5,7 @@ description: >-
   builds purpose-built vehicles and vehicle bodies, including access equipment,
   defense vehicles, fire and emergency apparatus, refuse collection vehicles,
   and concrete mixers.
-type: Contract
+kind: contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Defense
