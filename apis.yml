@@ -20,6 +20,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/oshkosh-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/oshkosh-corporation
   - type: Website
@@ -32,6 +34,8 @@ common:
     url: https://www.oshkoshcorp.com/privacy-policy
   - type: TermsOfService
     url: https://www.oshkoshcorp.com/terms-of-use
+  - url: https://www.oshkoshcorp.com/blog
+    type: Blog
 maintainers:
   - FN: API Evangelist
     email: info@apievangelist.com

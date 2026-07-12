@@ -1,0 +1,32 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: www.oshkoshcorp.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Sep 11 06:44:55 2026 GMT
+  hsts: false
+- host: www.oshkoshdefense.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Sep 17 09:51:41 2026 GMT
+  hsts: false
+domains:
+- domain: oshkoshcorp.com
+  dnssec: false
+  caa:
+  - 0 issue "amazonaws.com"
+  - 0 issue "amazontrust.com"
+  - 0 issue "awstrust.com"
+  - 0 issue "digicert.com"
+  - 0 issue "letsencrypt.org"
+  - 0 issue "pki.goog; cansignhttpexchanges=yes"
+  spf: true
+  dmarc: false
+- domain: oshkoshdefense.com
+  dnssec: false
+  caa: []
+  spf: true
+  dmarc: true
+  dmarc_policy: reject
