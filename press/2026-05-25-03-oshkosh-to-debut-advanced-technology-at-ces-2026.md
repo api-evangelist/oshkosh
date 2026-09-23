@@ -1,7 +1,9 @@
 ---
 title: Oshkosh to Debut Advanced Technology at CES 2026
 url: https://www.oshkoshcorp.com/news/2025/12-16-25-oshkosh-to-debut-advanced-technology-at-ces-2026
-date: '2026-05-25'
+published: '2025-12-16'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Oshkosh" press release artificial intelligence'
 position: 3
 source: serpapi-google

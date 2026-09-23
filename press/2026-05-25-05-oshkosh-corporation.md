@@ -1,7 +1,9 @@
 ---
 title: Oshkosh Corporation
 url: https://www.facebook.com/oshkoshcorporation/posts/were-excited-to-announce-that-oshkosh-corporation-has-been-named-a-cio-100-award/1367076805458783/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Oshkosh" press release artificial intelligence'
 position: 5
 source: serpapi-google

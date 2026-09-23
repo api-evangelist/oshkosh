@@ -1,7 +1,9 @@
 ---
 title: Oshkosh Brings Autonomy, AI and more to CES 2026
 url: https://www.oshkoshcorp.com/news/2026/01-06-26-bringing-autonomy-ai-connectivity-and-electrification-to-ces-2026
-date: '2026-05-25'
+published: '2026-01-06'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Oshkosh" press release artificial intelligence'
 position: 1
 source: serpapi-google
